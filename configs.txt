@@ -1,0 +1,1599 @@
+1597 61423
+ 
+ 
+true ...X.O.OX 1 0 1
+ 
+true O.X.XO.XO 23 0 23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .....O..X 28 9 11
+true OX.XX.O.O 27 3 24
+ 
+ 
+true .X.OOX.OX 2 0 0
+ 
+true OXX.OOXOX 79 0 0
+ 
+ 
+true OX....... 38 14 16
+true X.OO.XXO. 1 0 0
+true X.XOO.... 4 2 2
+ 
+ 
+ 
+true OXX.OXXOO 252 252 0
+ 
+ 
+ 
+ 
+true O.XOOXXOX 1 1 0
+ 
+ 
+ 
+true O.OO.XXX. 2 1 1
+ 
+ 
+ 
+true XO.O.X.XO 0 0 0
+true X..XO..O. 1 0 1
+true ..O.XXOXO 7 0 7
+ 
+ 
+true XXOOOXO.X 663 663 0
+ 
+true X.O..OX.. 2 1 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true ..XX.O..O 1 0 1
+ 
+ 
+true .XOX.O.XO 1 0 1
+ 
+ 
+ 
+true X....X.OO 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+true OXX....O. 1 0 1
+ 
+ 
+ 
+true O..O.X.X. 1 0 1
+ 
+true .XX.O.OXO 1 0 1
+ 
+ 
+ 
+true XXOXX.OOO 91 69 22
+ 
+ 
+ 
+true OOXX.XOOX 2 2 0
+true XX.OO..XO 3 2 0
+ 
+ 
+true ..OO.X.X. 1 0 1
+ 
+ 
+ 
+ 
+true XXOO.XOXO 1 0 1
+ 
+true XOO..XX.O 1 0 0
+ 
+ 
+ 
+ 
+true ..O.....X 28 10 12
+true ..OXX.XOO 26 5 21
+ 
+ 
+true X.O..XOXO 1 0 1
+ 
+true OOX.X..OX 11 1 10
+ 
+ 
+true X.XXOOOXO 2 0 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .XXO..XOO 1 0 1
+ 
+ 
+ 
+ 
+true XX.OXO..O 31 8 23
+ 
+ 
+ 
+ 
+true ..X.XOOXO 10 0 5
+ 
+ 
+ 
+true XX.OOXOOX 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true X.O....OX 1 0 1
+ 
+ 
+ 
+ 
+true XO..OOX.X 2 1 1
+ 
+ 
+ 
+true X....O.OX 2 1 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .X..OOXXO 1 0 1
+ 
+ 
+true X..O...OX 1 0 0
+ 
+ 
+true OOX.XOOXX 213 0 0
+ 
+ 
+ 
+true .XOXXOOOX 14 0 14
+ 
+true ..OX.OOXX 1 0 1
+ 
+ 
+true O.OXXOOXX 17 0 17
+ 
+ 
+ 
+true OOXX.XXOO 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+true OO.X..XXO 1 0 1
+ 
+ 
+ 
+true .O.OX.XOX 25 0 25
+true .O.O.OXXX 0 0 0
+ 
+ 
+ 
+true X.XOOOXXO 730 730 0
+true XOX...XOO 1 0 1
+ 
+ 
+true ..XOXO.XO 16 0 16
+ 
+ 
+ 
+ 
+ 
+ 
+true .XX.O..O. 7 4 2
+true OXX...OXO 1 1 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true ...OOX.X. 3 0 1
+ 
+ 
+ 
+ 
+true .O.OXX.XO 86 0 0
+ 
+ 
+ 
+ 
+true X.O.O.XOX 1 1 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true OXX.O.X.O 334 334 0
+ 
+true ...OX.XO. 15 0 9
+ 
+ 
+ 
+ 
+true .XX...OO. 1 0 1
+true XXO.O..XO 712 712 0
+ 
+ 
+true .XO.XO... 60 6 39
+ 
+ 
+ 
+ 
+true XX..OO.XO 4 3 1
+ 
+ 
+true OOX..O.XX 1 0 0
+ 
+true X..O.X..O 3 0 1
+ 
+ 
+ 
+ 
+true .XXXXOOOO 20 5 15
+ 
+true XX.X..OOO 1 0 1
+ 
+ 
+ 
+true ..XXX.OOO 27 13 14
+true .XXOOXOOX 70 69 1
+true XOXO.X..O 1 0 0
+ 
+ 
+true XOX.X.OO. 10 0 10
+ 
+ 
+ 
+true O.OXX.X.O 40 20 20
+true OO..XOX.X 13 4 9
+true O..X.OOXX 1 0 0
+ 
+ 
+ 
+true .OXOOXOXX 3 0 3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true X..OXO.XO 20 2 18
+ 
+ 
+true .OX.OXO.X 1 1 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true X.OXXO.O. 31 8 23
+true XXO.OOXXO 221 220 1
+ 
+ 
+ 
+true OOX.OX..X 0 0 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true ...XOOXXO 8 7 1
+ 
+true OX.OXX.O. 116 8 29
+ 
+true XOXOX.OXO 166 0 0
+ 
+ 
+ 
+ 
+true O...X.XO. 66 1 31
+ 
+ 
+true X..O.X.O. 3 0 1
+true X.OOXXOXO 18 0 18
+true X.O.OXOX. 1 1 0
+ 
+ 
+ 
+true OOXOXXO.X 7 7 0
+ 
+ 
+ 
+ 
+true X.XXO.O.O 4 2 1
+ 
+ 
+true .X.OOXXO. 1 0 1
+true OXXXX.OOO 74 57 17
+true OX..XO... 54 2 25
+true OXXX...OO 0 0 0
+true .XXO...O. 3 0 3
+ 
+ 
+true X...OOX.. 2183 1874 309
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .X.O.O.X. 1 1 0
+ 
+ 
+ 
+ 
+ 
+true XOX.X.O.O 63 0 1
+ 
+ 
+true X...OX.O. 4526 4361 164
+true X.X..OXOO 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true O.....XXO 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true ...XOO..X 2 1 1
+true XO.X...O. 6 4 2
+ 
+ 
+ 
+true X.OOXX.O. 13 0 5
+ 
+ 
+ 
+ 
+true ....O...X 7721 7180 463
+ 
+true ...XOOXOX 1 0 1
+ 
+true .O.XXO.OX 16 0 16
+ 
+ 
+ 
+ 
+ 
+ 
+true ...XOOOXX 1 0 0
+ 
+ 
+ 
+ 
+ 
+ 
+true .X..O.... 8047 7825 217
+ 
+true OO..X.X.. 102 22 80
+ 
+ 
+ 
+true X.OXO..XO 2 1 1
+ 
+true XOOO.XX.. 0 0 0
+ 
+true XOXO.OXOX 0 0 0
+true ....XOXO. 75 5 54
+ 
+true O.XO.O.XX 1 0 1
+ 
+ 
+ 
+true XOO..X.XO 1 0 0
+ 
+ 
+ 
+ 
+true .OXXOOOXX 5 0 0
+true ..XO.XOOX 1 0 1
+ 
+ 
+true XXOX...OO 1 0 1
+ 
+ 
+ 
+ 
+true .XOXO..XO 439 439 0
+true OXXX..OO. 0 0 0
+ 
+ 
+ 
+ 
+ 
+true XOOX.X.O. 1 1 0
+ 
+true O.......X 16 5 6
+ 
+ 
+ 
+ 
+ 
+ 
+true X.X.OX.OO 879 740 139
+true .O.X.XOXO 1 0 0
+ 
+ 
+ 
+true ..O...XOX 11 2 1
+ 
+ 
+ 
+ 
+ 
+true .X..OXOOX 3 2 1
+ 
+true .X.OXXOO. 9 3 6
+true ..O...XXO 2 0 1
+ 
+ 
+ 
+true .X....O.. 16 7 6
+ 
+true O...XOX.. 99 24 53
+true X.O.OXX.O 1 0 0
+ 
+ 
+ 
+true O..XOOXX. 1 0 1
+ 
+ 
+ 
+ 
+true O..O..XX. 3 2 1
+ 
+ 
+ 
+true X.XOXOOXO 7 0 7
+ 
+ 
+ 
+true .X.OX...O 106 14 59
+true O..X..OX. 3 1 1
+ 
+ 
+ 
+ 
+true OXXO.XOOX 0 0 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true XXO.O.... 4477 4335 140
+ 
+ 
+ 
+ 
+true XOOX.O..X 1 0 1
+ 
+ 
+ 
+ 
+true XX.OOOXOX 140 140 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .XXOOXXOO 3 1 2
+true OXXO..XO. 0 0 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true XO.XOOOXX 5 0 0
+ 
+true X...OOXOX 2 1 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true X.O.OX.OX 772 772 0
+ 
+ 
+ 
+ 
+true X..OO.XOX 200 200 0
+ 
+true X.XO.O... 2 0 2
+ 
+ 
+ 
+ 
+ 
+ 
+true XXO.OO..X 537 537 0
+ 
+true OX.XXOXOO 15 0 15
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true XOO..X... 1 0 1
+true OO.XXOXXO 28 0 28
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true OO.XX.X.O 24 3 21
+ 
+ 
+ 
+true O..XXO... 379 45 37
+true XOO..XXO. 1 0 1
+true XOX.O.... 2 0 0
+ 
+ 
+ 
+ 
+ 
+ 
+true .X..XO.O. 69 5 34
+true O..XX.XOO 13 0 13
+ 
+ 
+true X.OO.X.XO 1 0 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true OXXXOXO.O 1056 1056 0
+ 
+ 
+ 
+true .X.O.OXXO 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .XOX.X.OO 0 0 0
+ 
+true .OXX....O 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .X.X..O.O 1 0 1
+ 
+true OOX.O..XX 2 1 1
+ 
+ 
+true .XXXO..OO 928 767 161
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true XX.OXOXOO 26 0 26
+true X.XOOX..O 1 0 0
+ 
+true XOXX.OOXO 4 0 0
+true XX.XO..OO 4 3 1
+ 
+ 
+ 
+ 
+true XXOXXO.OO 36 14 22
+ 
+ 
+ 
+ 
+true XOXOXX.OO 29 0 29
+ 
+ 
+ 
+true OX..OX.OX 1 0 1
+ 
+ 
+ 
+ 
+true OXXXXOOO. 208 0 0
+ 
+true ..OOX.XOX 14 0 5
+ 
+true .OO.X.X.. 66 29 30
+true X.X..XOOO 1 0 1
+ 
+ 
+ 
+ 
+ 
+true XXOOX...O 37 0 10
+ 
+ 
+ 
+true .X..X..OO 55 13 27
+true O..OX.XOX 6 0 3
+ 
+ 
+true .XXO.OX.O 1 0 1
+ 
+ 
+ 
+ 
+ 
+true XXO.XO..O 20 8 12
+ 
+true ...XXOXOO 22 6 16
+true O.OXOXXOX 2 0 0
+ 
+ 
+true OX...OXXO 0 0 0
+ 
+ 
+ 
+ 
+true ...OXXOXO 4 1 3
+ 
+true .XXO.OXO. 1 0 1
+ 
+ 
+ 
+true O.XX....O 5 2 3
+ 
+ 
+ 
+ 
+ 
+ 
+true OX.X.X.OO 2 2 0
+true .XOXX.O.O 8 0 8
+true .X.OO.XOX 1 0 0
+ 
+ 
+true X.....OOX 1 0 1
+true .XOXOXOXO 366 366 0
+ 
+ 
+ 
+true X.O.XXO.O 11 2 9
+true .X..OXXOO 1 1 0
+true ..OX..OX. 2 1 1
+ 
+ 
+ 
+true ..XOOX.OX 225 145 80
+true O.OOXOXXX 5 5 0
+ 
+ 
+ 
+true XOXO.OXXO 1 0 1
+ 
+ 
+ 
+true .O..OXXXO 3 2 0
+ 
+true .X...O.XO 1 0 1
+ 
+true .O..XOX.. 53 7 46
+true OXXO.XXOO 1 0 1
+ 
+true .X.OOOXX. 446 446 0
+ 
+ 
+ 
+ 
+ 
+ 
+true .XOX..O.. 5 4 1
+ 
+true .O.XOX.XO 1 0 0
+ 
+ 
+true XOOX.OOXX 1 0 1
+ 
+true X.XO..XOO 1 1 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true OXX..OX.O 1 0 1
+ 
+ 
+ 
+ 
+true OOXOO.XXX 76 76 0
+true O.X..OXOX 1 0 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true OXXO..X.O 3 3 0
+ 
+true XO.XXO.O. 19 1 18
+ 
+ 
+ 
+true O...X.... 1015 159 455
+ 
+true ...XXOOOX 9 0 4
+ 
+ 
+true ...XO.OX. 3 2 0
+true .XXO..OXO 1 0 1
+ 
+ 
+true .O..X.... 1030 117 517
+ 
+ 
+ 
+ 
+ 
+true .XOO.OXX. 1 1 0
+ 
+true OX..O.XOX 1 0 1
+true O.X..XO.. 1 0 1
+ 
+true XX.OOXOXO 1 0 1
+ 
+true .OOXO.X.X 20 19 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true ..XOOXO.X 2 1 1
+true XOXOXO.XO 21 0 21
+ 
+ 
+true X..OOX.XO 2 0 0
+ 
+ 
+ 
+ 
+true XO.OXXOXO 227 0 0
+ 
+true .XO....XO 2 1 0
+ 
+ 
+true X.O..X..O 1 0 1
+ 
+true X.OXOX.O. 476 476 0
+ 
+true X..XOO.XO 1 0 1
+ 
+ 
+true O..O.OXXX 1 1 0
+ 
+true XO...X..O 1 0 1
+ 
+true .OO.XOX.X 15 3 12
+ 
+ 
+ 
+ 
+true ..O.O.X.X 1 0 1
+ 
+ 
+ 
+true OXOOX...X 15 1 6
+ 
+true ..OXXO.OX 16 0 5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .X.XX.OOO 14 6 8
+ 
+ 
+true XX..O...O 3 1 1
+ 
+true OOXXOXO.X 81 81 0
+true .O.OX.XXO 20 0 7
+ 
+ 
+ 
+true XX..O.O.. 1 0 1
+true X.XO.XO.O 1 0 1
+ 
+ 
+true XXO.OXOXO 526 526 0
+true ..OOXX.XO 12 0 4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .X.XO.O.. 1 0 1
+true ..XX...OO 1 0 1
+ 
+ 
+ 
+ 
+true X..O.OX.. 1 0 1
+true ....X.XOO 61 4 39
+ 
+ 
+true XO..OXXO. 898 898 0
+ 
+true X..OOXO.X 1 0 1
+ 
+ 
+true OX..OXXO. 1 1 0
+true OXO.X.... 21 2 11
+true XOX.XXOOO 20 9 11
+ 
+ 
+ 
+true X..OOX.OX 10 6 1
+ 
+ 
+true XO...X.O. 1 0 1
+ 
+true X..XOOO.X 223 148 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .XXOO.XO. 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true OX..X.XOO 12 0 12
+true .O.O.X.X. 1 0 0
+ 
+ 
+ 
+ 
+true OXOX.XOXO 0 0 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true O..XXOX.O 19 5 14
+ 
+ 
+ 
+true O..OXX.XO 11 1 10
+true .OXOX..OX 15 2 13
+ 
+ 
+ 
+true X.OXOXOOX 272 272 0
+ 
+ 
+true .X.O..... 20 6 13
+true .XOO..XXO 1 0 1
+true X.O.OX... 1 0 1
+ 
+ 
+ 
+true .XXX..OOO 1 0 1
+true OX..XX.OO 10 3 7
+ 
+true ...OOOXXX 1 1 0
+ 
+true .OXXO.... 4 3 1
+true X....XO.O 1 0 1
+ 
+ 
+ 
+ 
+true XO..OXX.O 4 3 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .X....OXO 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .X.O...XO 1 0 1
+true XOX..X.OO 2 1 1
+ 
+ 
+ 
+ 
+true O.XO.X.OX 0 0 0
+true ..XXO...O 5 4 0
+ 
+ 
+ 
+ 
+ 
+ 
+true .X.XOX.OO 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+true X.OO.XX.O 1 0 0
+true .OXXX..OO 26 3 23
+ 
+ 
+true .X..OXO.. 2330 2273 57
+ 
+true XX..X.OOO 17 8 9
+ 
+ 
+true .X.XXOO.O 19 8 11
+true .O.X.OXXO 1 0 1
+ 
+ 
+ 
+true O.XO.XO.X 0 0 0
+true XX.OX..OO 31 5 8
+ 
+ 
+ 
+ 
+true OXO.X.XO. 179 0 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true O..XXO.OX 153 0 1
+ 
+ 
+ 
+ 
+ 
+true ...O..XXO 2 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true O.O...X.X 8 5 1
+ 
+ 
+ 
+ 
+true .XXOO.X.O 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true XO.....OX 2 1 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true OX.....XO 2 1 1
+true .OX..OXOX 1 1 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true XO.X..OOX 1 0 1
+ 
+true XXOO..OX. 0 0 0
+ 
+ 
+true .OXOOXXOX 1 1 0
+ 
+ 
+ 
+true X.O.O...X 1 0 1
+ 
+true O..X.XOXO 1 0 1
+true O.XXX..OO 26 6 20
+ 
+ 
+true ..XXXO.OO 17 3 14
+true OX.XOOXXO 477 477 0
+ 
+true X...O..OX 1115 1036 2
+ 
+ 
+ 
+ 
+ 
+ 
+true XXO.OOXOX 2 1 1
+ 
+true X.OXO.OX. 1847 1847 0
+ 
+true .O..XOXXO 17 3 14
+true .O.X.OOXX 1 0 0
+true .X..O..XO 1143 1141 1
+ 
+ 
+true OXX...XOO 1 1 0
+true .O......X 39 18 19
+ 
+ 
+ 
+ 
+true .X.OO..X. 2 1 1
+ 
+ 
+ 
+ 
+ 
+true XOXO..... 1 0 1
+ 
+ 
+ 
+true X.X.O.XOO 2 1 1
+true O...X.X.O 48 5 43
+ 
+ 
+ 
+true X..X..OO. 2 1 1
+true OXX.OX..O 902 902 0
+ 
+ 
+ 
+ 
+true .O..X.XO. 56 1 55
+ 
+ 
+ 
+ 
+ 
+ 
+true OX..X...O 56 5 51
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .X.OXO... 54 3 51
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .XXX.O.OO 1 0 1
+ 
+ 
+ 
+ 
+ 
+true .XX..OOXO 1 0 1
+ 
+ 
+ 
+true .XO.X.XOO 24 1 8
+true XX.OOOXXO 441 441 0
+ 
+ 
+ 
+true XX..XOO.O 50 25 25
+ 
+ 
+ 
+true .XO.XOXO. 17 0 5
+true XX.XOOOXO 2 1 1
+ 
+true ..OXO.XOX 1 0 0
+true XOX.OOXOX 69 69 0
+true XXO.X..OO 102 55 12
+true X.OX...O. 2 0 2
+ 
+ 
+ 
+ 
+ 
+true .XX.OXO.O 493 438 55
+ 
+true XX..XO.OO 19 5 14
+ 
+ 
+ 
+ 
+true X...OX..O 7 4 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true XX.OO.OX. 216 216 0
+ 
+ 
+true ..O.OXXOX 1 0 0
+true .OXOXXOOX 5 3 2
+ 
+ 
+true O.O.X.X.. 72 21 29
+ 
+true ...XOXOXO 113 113 0
+ 
+ 
+true X..XO.OXO 1 0 0
+ 
+ 
+ 
+true ..O.X.XO. 303 20 37
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .OXO.OX.X 1 0 1
+true .XO.X...O 56 11 34
+ 
+ 
+ 
+true XXO.XOXOO 25 11 14
+ 
+true ...OXOXXO 19 1 18
+ 
+true XO.X.OO.X 1 0 0
+true .X..XO..O 89 18 71
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true OXX.OXOOX 1 1 0
+ 
+ 
+ 
+true OX.XOXXOO 226 226 0
+ 
+ 
+ 
+ 
+true XOO.X.X.O 96 23 18
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .O.XO.XOX 1735 1735 0
+ 
+ 
+ 
+true .X.....O. 17 1 9
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .XX..O.O. 2 0 2
+ 
+ 
+ 
+ 
+ 
+ 
+true O.X...X.O 3 3 0
+ 
+true .O.X..OX. 1 0 1
+ 
+ 
+ 
+ 
+true .O.XOOXX. 2 1 1
+true XXOX.OOXO 1 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true ...OXOXOX 6 0 6
+ 
+ 
+true XX.OO.... 1 0 1
+ 
+ 
+ 
+ 
+true .XO..OXXO 1 0 1
+ 
+ 
+ 
+ 
+true .OXXOXOOX 1 1 0
+ 
+ 
+ 
+true X.OOX..XO 30 1 9
+true .XOXOOXOX 2 0 2
+true X.XO.X.OO 1 0 1
+ 
+true XXOX..O.O 1 0 1
+true XX.X.O.OO 1 0 1
+true XO.XOXOXO 6 0 0
+true X...OXXOO 1 0 1
+ 
+ 
+true .XOXOOXXO 4 2 2
+ 
+true X.XO....O 2 1 1
+ 
+ 
+ 
+true X.O.OX.XO 2 1 0
+ 
+ 
+true .XXX.OOO. 1 0 0
+ 
+ 
+ 
+ 
+ 
+ 
+true X.XO..O.. 1 0 1
+ 
+ 
+ 
+true .OX..XO.. 3 0 2
+ 
+true .OXXOX..O 456 456 0
+ 
+ 
+ 
+true .X..X.O.O 55 14 41
+true .XX....OO 2 0 2
+ 
+ 
+ 
+true ..OXOX.XO 587 587 0
+ 
+ 
+true X..X...OO 4 0 4
+ 
+ 
+ 
+ 
+ 
+ 
+true XOXX.XOOO 1 0 1
+ 
+ 
+ 
+true ...O.XOX. 2 0 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true .O.XX.XOO 26 1 25
+true O.XXOOOXX 5 0 0
+ 
+ 
+true XO.O.XXO. 0 0 0
+ 
+ 
+ 
+ 
+true X.O.XOX.O 31 15 16
+true XOO..XOX. 1 0 1
+ 
+ 
+ 
+true O.XOOXOXX 160 160 0
+ 
+ 
+ 
+true OXOX...XO 1 1 0
+true O.O..XXOX 2 0 0
+ 
+ 
+ 
+ 
+true XO.XOXOOX 562 562 0
+ 
+ 
+ 
+true X.OX..OXO 1 1 0
+true XO...OX.. 1 0 1
+ 
+ 
+ 
+ 
+ 
+true X...OXOOX 19 18 1
+ 
+ 
+true X.O..X.O. 1 0 1
+ 
+true XO..O.XOX 1107 1107 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+true XXO.O.OX. 211 211 0
+ 
+ 
+ 
+ 
+ 
+ 
+true XO..OX.OX 535 535 0
+ 
+ 
+ 
+ 
+ 
+ 
+true X.OO.X... 1 0 1
+ 
+ 
+ 
+true O..XOX.XO 211 211 0
+true .O.XOOX.X 3 2 1
+ 
+
